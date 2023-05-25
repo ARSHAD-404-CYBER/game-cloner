@@ -1,1 +1,1 @@
-# game-cloner
+# gameid-cloner
